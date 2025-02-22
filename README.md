@@ -1,6 +1,6 @@
 # Netflix India UI Clone
 
-Welcome to the **Netflix India UI Clone** project! This is a simple static replica of the Netflix India homepage, built with **HTML** and **CSS**. The objective of this project is to mimic the design and layout of Netflix India's homepage with a focus on building a responsive, modern UI.
+Welcome to the **Netflix India UI Clone** project. This is a simple static replica of the Netflix India homepage, built with **HTML** and **CSS**. The objective of this project is to mimic the design and layout of Netflix India's homepage with a focus on building a responsive, modern UI.
 
 ---
 
